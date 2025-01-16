@@ -1,15 +1,15 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Nayan Bot",
-  "botOwner": "Nayan",
-  "ownerNumber": "8801615298449",
+  "botName": "Nisan Bot",
+  "botOwner": "Nisan",
+  "ownerNumber": "8801775602198",
   "PREFIX": ".",
   "admin": [
     "",
-    "8801615298449"
+    "8801775602198"
   ],
-  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
+  "helpPic": "https://i.imgur.com/hDTLa1z.jpeg",
   "PORT": "3000",
   "msg": {
     "modAdmin": false
